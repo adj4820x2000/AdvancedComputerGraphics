@@ -1,0 +1,15 @@
+newmtl box1
+	illum 2
+	map_Kd ./m10802152_1.jpg
+	
+newmtl box2
+	illum 2
+	map_Kd ./m10802152_2.jpg
+	
+newmtl box3
+	illum 2
+	map_Kd ./m10802152_3.jpg
+	
+newmtl box4
+	illum 2
+	map_Kd ./m10802152_4.jpg
