@@ -1,0 +1,7 @@
+newmtl Material__1
+	 Ka 0.2 0.2 0.2
+	 Kd 0.9 0.9 0.9
+	 Ks 1.0 1.0 1.0
+	 illum 2
+	 Ns 25.6
+map_Kd Dog.jpg
